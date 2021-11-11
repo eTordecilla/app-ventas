@@ -31,6 +31,7 @@
     "redux": "^4.1.1",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.3.0",
+    "toml": "^3.0.0",
     "web-vitals": "^1.1.2",
     "webfontloader": "^1.6.28"
   },
@@ -39,6 +40,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "14.x"
   },
   "eslintConfig": {
     "extends": [
